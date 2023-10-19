@@ -1,2 +1,2 @@
-# parallel-c-
+# parallel-c++
 Parallel c++ Tutorial
